@@ -1,1 +1,1 @@
-# vibeWordopen studyreviewopen
+# studyreviewopen
