@@ -1,1 +1,12 @@
+# app-ads.txt
+# Authorized Digital Sellers for Apps
+# IAB Tech Lab app-ads.txt Specification v1.1
+# https://iabtechlab.com/app-ads-txt/
+#
+# App Name: 오답노트
+# Contact: lpureall@gmail.com
+# Last Updated: 2026-05-27
+
+contact=lpureall@gmail.com
+
 google.com, pub-4480811739585526, DIRECT, f08c47fec0942fa0
